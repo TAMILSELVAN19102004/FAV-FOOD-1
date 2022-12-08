@@ -1,0 +1,11 @@
+body {
+  background-image: url('https://www.realsimple.com/thmb/QhoQVq6pGQ82T2g_Yfg34TH-LDQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/bridget-degnan-hellofresh-thanksgiving-tout-bc330953c33741cf868ccffe35970339.jpg');
+}
+h1 {
+  text-align: center;
+  justify-content: center;
+  color: white;
+  padding: 300px;
+  font-size: 300%;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
